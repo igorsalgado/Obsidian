@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Projects/01. Backend - Agenda Barbearia.md",
-                "mode": "preview",
+                "file": "01. Template/03. Projects.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Projects/01. Backend - Agenda Barbearia.md",
+                "file": "01. Template/03. Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Projects/01. Backend - Agenda Barbearia.md",
+                "file": "01. Template/03. Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Projects/01. Backend - Agenda Barbearia.md"
+                "file": "01. Template/03. Projects.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "af99bbd803c38a17",
+  "active": "b45fc1730e0449e9",
   "lastOpenFiles": [
-    "01. Template/Projects.md",
-    "01. Template/Problems.md",
-    "01. Template/Annotations.md",
+    "01. Template/02. Problems.md",
+    "01. Template/01. Annotations.md",
+    "03. Annotations/01. First Annotation.md",
+    "02. Problems/01. First Problem.md",
     "04. Projects/01. Backend - Agenda Barbearia.md",
+    "01. Template/03. Projects.md",
     "02. Problems/JWT no Spring Boot.md",
-    "03. Annotations/Sem título.md",
     "03. Annotations/Ideia par.md",
     "04. Projects",
     "Sem título.md",
