@@ -5,11 +5,11 @@ Este repositório contém minhas anotações organizadas no Obsidian, um aplicat
 ## Estrutura das Pastas:
 O repositório está organizado em três principais pastas:
 
-Problems: Nesta pasta, mantenho registros de problemas que encontrei durante o desenvolvimento de projetos ou ao trabalhar com tecnologias específicas. Esses problemas podem incluir erros, bugs, desafios de implementação ou qualquer outra questão que precise ser documentada para referência futura.
+``Problems:`` Nesta pasta, mantenho registros de problemas que encontrei durante o desenvolvimento de projetos ou ao trabalhar com tecnologias específicas. Esses problemas podem incluir erros, bugs, desafios de implementação ou qualquer outra questão que precise ser documentada para referência futura.
 
-Annotations: Aqui estão minhas anotações gerais, que abrangem uma variedade de tópicos relacionados ao desenvolvimento de software. Essas anotações podem incluir conceitos, dicas, truques, tutoriais, boas práticas e outras informações úteis que encontro durante minha jornada como desenvolvedor.
+``Annotations:`` Aqui estão minhas anotações gerais, que abrangem uma variedade de tópicos relacionados ao desenvolvimento de software. Essas anotações podem incluir conceitos, dicas, truques, tutoriais, boas práticas e outras informações úteis que encontro durante minha jornada como desenvolvedor.
 
-Projects: Nesta pasta, mantenho anotações relacionadas a projetos específicos em que estou trabalhando ou planejando iniciar. Isso inclui detalhes de escopo, requisitos, arquitetura, fluxos de trabalho, decisões de design e qualquer outra informação relevante para o projeto em questão.
+``Projects:`` Nesta pasta, mantenho anotações relacionadas a projetos específicos em que estou trabalhando ou planejando iniciar. Isso inclui detalhes de escopo, requisitos, arquitetura, fluxos de trabalho, decisões de design e qualquer outra informação relevante para o projeto em questão.
 
 Fique à vontade para explorar as pastas e arquivos para obter informações adicionais e descobrir mais sobre meus registros e conhecimento acumulado.
 
