@@ -11,11 +11,10 @@
             "id": "af99bbd803c38a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "03. Annotations/02. Princípios SOLID.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": true
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Annotations/02. Princípios SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Annotations/02. Princípios SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03. Annotations/02. Princípios SOLID.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,14 +149,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e3b665cb8c80b7fe",
+  "active": "af99bbd803c38a17",
   "lastOpenFiles": [
+    "03. Annotations/02. Princípios SOLID.md",
     "README.md",
     "01. Template/01. Annotations.md",
     "01. Template/02. Problems.md",
     "01. Template/03. Projects.md",
     "04. Projects/01. Backend - Agenda Barbearia.md",
-    "03. Annotations/02. Princípios SOLID.md",
     "03. Annotations/01. First Annotation.md",
     "02. Problems/01. First Problem.md",
     "02. Problems/JWT no Spring Boot.md",
