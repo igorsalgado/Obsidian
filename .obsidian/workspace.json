@@ -154,14 +154,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e3b665cb8c80b7fe",
+  "active": "af99bbd803c38a17",
   "lastOpenFiles": [
+    "03. Annotations/02. Princípios SOLID.md",
+    "04. Projects/01. Backend - Agenda Barbearia.md",
     "03. Annotations/01. First Annotation.md",
     "02. Problems/01. First Problem.md",
     "01. Template/03. Projects.md",
     "01. Template/02. Problems.md",
     "01. Template/01. Annotations.md",
-    "04. Projects/01. Backend - Agenda Barbearia.md",
     "02. Problems/JWT no Spring Boot.md",
     "03. Annotations/Ideia par.md",
     "04. Projects",
