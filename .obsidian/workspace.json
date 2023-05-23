@@ -128,13 +128,21 @@
                 "file": "01. Template/03. Projects.md"
               }
             }
+          },
+          {
+            "id": "e3b665cb8c80b7fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
