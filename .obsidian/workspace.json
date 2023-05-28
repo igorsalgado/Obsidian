@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13e175f9f0498f54",
+        "id": "9dad4c50daf6c082",
         "type": "tabs",
         "children": [
           {
-            "id": "3e63b2bc4eae7b97",
+            "id": "912ca7dc7d03c5f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Annotations/Princípios SOLID.md",
+                "file": "04. Projects/01. Backend - Agenda Barbearia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Annotations/Princípios SOLID.md",
+                "file": "04. Projects/01. Backend - Agenda Barbearia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Annotations/Princípios SOLID.md",
+                "file": "04. Projects/01. Backend - Agenda Barbearia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Annotations/Princípios SOLID.md"
+                "file": "04. Projects/01. Backend - Agenda Barbearia.md"
               }
             }
           },
@@ -154,12 +154,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e3b665cb8c80b7fe",
+  "active": "912ca7dc7d03c5f1",
   "lastOpenFiles": [
     "03. Annotations/Fundamentos dos Microservices.md",
+    "03. Annotations/Comunicação entre serviços com Spring Cloud OpenFeign.md",
     "03. Annotations/Princípios SOLID.md",
-    "01. Template/03. Projects.md",
     "01. Template/02. Problems.md",
+    "01. Template/03. Projects.md",
     "01. Template/01. Annotations.md",
     "Microservices.md",
     "03. Annotations/Microservices com Java/01. Microservices com Java.md",
@@ -173,7 +174,6 @@
     "03. Annotations/DDD (Domain-Driven Design).md",
     "03. Annotations/01. First Annotation.md",
     "02. Problems/01. First Problem.md",
-    "Sem título.md",
     "README.md",
     "Sem título.canvas",
     "04. Projects/01. Backend - Agenda Barbearia.md",
